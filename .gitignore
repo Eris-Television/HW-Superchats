@@ -1,0 +1,11 @@
+# PHP-Dll
+*.dll
+
+# PHP license / new etc. files
+*.txt
+
+# PHP-Folders
+/dev
+/ext
+/extras
+/lib
