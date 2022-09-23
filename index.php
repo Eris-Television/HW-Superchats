@@ -4,7 +4,8 @@
 <?php $refreshTime = "32";?>
 
 <head>
-    <meta charset="UTF-8"/>
+    <meta charset="UTF-8"/>    
+    <meta http-equiv="refresh" content="<?php echo $refreshTime?>;URL='<?php echo $_SERVER['PHP_SELF']?>'">
     <title>Honigwabe Superchats</title>
 </head>
 
