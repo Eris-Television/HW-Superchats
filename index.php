@@ -1,10 +1,18 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <meta charset="UTF-8"/>
+
+    <title>Honigwabe Superchats</title>
+</head>
 <body>
 
-<?php
-echo "My first PHP script!";
-?>
+
 
 </body>
+
+<?php
+echo "Test";
+?>
+
 </html> 
