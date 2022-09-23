@@ -9,3 +9,14 @@
 /ext
 /extras
 /lib
+deplister.exe
+phar.phar.bat
+pharcommand.phar
+php-cgi.exe
+php-win.exe
+php.exe
+php.ini-development
+php.ini-production
+php8embed.lib
+phpdbg.exe
+README.md
